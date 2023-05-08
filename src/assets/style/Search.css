@@ -1,0 +1,43 @@
+.LayoutSearch{
+    top: 164px;
+    left: 337px;
+    width: 1548px;
+    height: 100px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E8E8E8;
+    border-radius: 15px;
+    opacity: 1;
+    position: fixed;
+    z-index: 1;
+}
+
+.SearchButton{
+    margin-top: 25px;
+    width: 170px;
+    height: 55px;
+    background: #2B2B2B 0% 0% no-repeat padding-box;
+    border-radius: 27px;
+    opacity: 1;
+    position: fixed;
+    color: #FFFFFF;
+}
+
+.SearchText{
+    margin-left: 37px;
+    margin-top: 37px ;
+    text-align: left;
+    letter-spacing: 0.22px;
+    font-size: 22px;
+
+}
+
+.SearchField{
+    margin-top: 25px;
+    width: 250px;
+    height: 55px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    border-radius: 34px;
+    opacity: 1;
+    border: none;
+    position: fixed;
+}

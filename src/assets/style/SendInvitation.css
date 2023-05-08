@@ -1,0 +1,73 @@
+.Grid{
+    padding-top: 75px;
+    color:#2b2b2be4
+}
+.Column{
+    height: 650px;
+    width: 100%;
+
+}
+
+.ColumnForm{
+    background-color: #2b2b2bd8;
+    padding: 75px;
+    height: 650px;
+    width: 100%;
+    /* background-image:linear-gradient(rgba(247, 217, 21),rgba(250, 227, 78, 0741)); */
+    border-radius: 10px;
+    border-left: 15px solid #ffde59e4;
+
+}
+
+.Title{
+    font-size: 54px;
+    padding-top: 150px;
+    color: #2b2b2be4;
+
+}
+
+.SubTitle{
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.714);;
+
+}
+
+.FormTitle{
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.BorderNone{
+    border: none;
+}
+
+.LoginImage{
+    padding-top: 60px;
+    padding-left: -20px;
+    padding-bottom: 30px;
+}
+
+
+
+.InputOpacity{
+    opacity: 0;
+}
+
+
+.LoginButton{
+    width: 300px;
+    border-radius: 25px;
+    background-color: aliceblue;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.input{
+    width: 300px;
+    padding: 10px 20px;
+    border-color: transparent;
+    border-bottom: 1px solid darkgrey;
+    font-size: 15px;
+    background: transparent;
+    color: aliceblue;
+}

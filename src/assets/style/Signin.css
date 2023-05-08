@@ -1,0 +1,116 @@
+.Grid {
+  padding: 40px;
+  padding-top: 75px;
+  color: #2b2b2be4;
+}
+.Column {
+  height: 750px;
+  width: 100%;
+}
+
+.Title {
+  font-size: 54px;
+  padding-top: 150px;
+  color: #2b2b2be4;
+}
+
+.SubTitle {
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.714);
+}
+
+.FormTitle {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.BorderNone {
+  border: none;
+}
+
+.LoginImage {
+  padding-top: 60px;
+  padding-left: -20px;
+  padding-bottom: 30px;
+}
+
+.InputOpacity {
+  opacity: 0;
+}
+
+.LoginButton {
+  width: 300px;
+  border-radius: 25px;
+  background-color: aliceblue;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.input {
+  width: 300px;
+  padding: 10px 20px;
+  border-color: transparent;
+  border-bottom: 1px solid darkgrey;
+  font-size: 15px;
+  background: transparent;
+  color: aliceblue;
+}
+
+.Link:hover {
+  color: #d0a704e4;
+  text-decoration: none;
+}
+
+.Link:active {
+  color: #d0a704e4;
+  text-decoration: none;
+}
+
+.ColumnFormProfile {
+  padding: 75px;
+  height: 950px;
+  width: 100%;
+  background-image:linear-gradient(120deg,#2b2b2b,#595252e1); 
+  border-radius: 10px;
+  border-left: 10px solid #ffde59e4;
+  box-shadow: 2px 2px 8px #6b6b68;
+}
+
+.ColumnFormSignUp {
+  padding: 75px;
+  height: 800px;
+  width: 100%;
+  background-image:linear-gradient(120deg,#2b2b2b,#595252e1); 
+  border-radius: 10px;
+  border-left: 10px solid #ffde59e4;
+  box-shadow: 2px 2px 8px #6b6b68;
+}
+
+
+
+  .ColumnFormSendEmail {
+    padding: 75px;
+    height: 650px;
+    background-image:linear-gradient(120deg,#2b2b2b,#595252e1); 
+    border-radius: 10px;
+    border-left: 10px solid #ffde59e4;
+    box-shadow: 2px 2px 8px #6b6b68;
+  }
+
+  .ColumnForm {
+    padding: 75px;
+    height: 600px;
+    background-image:linear-gradient(120deg,#2b2b2b,#595252e1); 
+    border-radius: 0px 10px 170px 0px;
+    border-left: 10px solid #ffde59e4;
+    box-shadow: 2px 2px 8px #6b6b68;
+  }
+
+
+  .DeleteButton{
+    width: 300px;
+    border-radius: 25px;
+    background-color: rgb(243, 58, 30);
+    font-weight: 600;
+    padding: 10px;
+  }

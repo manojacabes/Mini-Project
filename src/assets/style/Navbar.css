@@ -1,0 +1,29 @@
+.LayoutNavBar{
+    top: 164px;
+    left: 0px;
+    width: 289px;
+    height: 916px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 0px 15px 0px 0px;
+    opacity: 1;
+    position: fixed;
+    z-index: 1;
+    padding: 50px;
+    color: black;
+}
+
+.Link {
+    color: black;
+ }
+
+.Link:hover {
+    color: #d0a704e4;
+    text-decoration: none;
+
+ }
+ 
+ .Link:active {
+    color: #d0a704e4;
+    text-decoration: none;
+
+ }
