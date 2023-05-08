@@ -118,7 +118,7 @@ export default function MiniDrawer() {
         setProfile(true);
     };
     const handleSignOut = (text) => {
-        navigate('/login', { replace: false })
+        navigate('/', { replace: false })
 
     }
     // React.useEffect(() => {
