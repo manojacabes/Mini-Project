@@ -120,9 +120,9 @@ const SignInForm = () => {
                                 variant="standard"
                                 value={email}
                                 color='warning'
-                                InputProps={{
-                                    style: classes.input,
-                                }}
+                                // InputProps={{
+                                //     style: classes.input,
+                                // }}
                                 focused
                                 style={{ margin: '10px 10px 10px 10px' }}
                                 onChange={(e) => setEmail(e.target.value)} />
