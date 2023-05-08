@@ -24,7 +24,7 @@ const App = () => {
     // </Router>
     <div>
       <Routes>
-        <Route exact path="/login" Component={SignInForm} />
+        <Route exact path="/" Component={SignInForm} />
         <Route exact path="/home" Component={MiniDrawer} />
       </Routes>
     </div>
